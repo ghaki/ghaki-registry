@@ -4,7 +4,7 @@ require 'ghaki/registry/errors'
 require 'ghaki/registry/feature'
 
 ############################################################################
-class Ghaki; module Registry
+module Ghaki module Registry
   class Engine
     include Singleton
 

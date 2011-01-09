@@ -2,7 +2,7 @@
 require 'ghaki/registry/service'
 
 ############################################################################
-class Ghaki; module Registry
+module Ghaki module Registry
   class Feature
 
     ########################################################################

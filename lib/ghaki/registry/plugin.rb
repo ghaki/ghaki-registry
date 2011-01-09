@@ -2,7 +2,7 @@
 require 'ghaki/registry/engine'
 
 ############################################################################
-class Ghaki; module Registry
+module Ghaki module Registry
   module Plugin
 
     ########################################################################

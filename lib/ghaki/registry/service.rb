@@ -2,7 +2,7 @@
 require 'ghaki/registry/errors'
 
 ############################################################################
-class Ghaki; module Registry
+module Ghaki module Registry
   class Service
 
     ########################################################################
