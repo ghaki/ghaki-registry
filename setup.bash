@@ -1,5 +1,5 @@
 export GK_PROJECT_IDEPS=( \
-  "$(pwd)/../ghaki_common/lib" \
+  "$(pwd)/../ghaki-core/lib" \
   )
 export GK_PROJECT_GO_DIRS=( \
    "bin:${GK_PROJECT_DIR}/scripts" \
