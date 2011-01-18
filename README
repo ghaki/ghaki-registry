@@ -1,0 +1,23 @@
+= Ghaki Registry = Register and autoload packages.
+
+Ghaki Registry is a helper library for registering and loading features.
+
+== Download
+
+The latest version of Ghaki Registry can be found at
+
+* git:/home/ghaki/git-archive/ghaki-registry.git
+
+== Installation
+
+The preferred method of installing Ghaki Registry is through its GEM file.
+
+  % [sudo] gem install ghaki-registry-1.0.0.gem
+
+== License
+
+Ghaki Namer is released under the MIT license.
+
+== Support
+
+Contact mailto:gerald@kalafut.org
