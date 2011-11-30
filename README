@@ -6,7 +6,7 @@ Ghaki Registry is a helper library for registering and loading features.
 
 The latest version of Ghaki Registry can be found at
 
-* git:/home/ghaki/git-archive/ghaki-registry.git
+* git@github.com:ghaki/ghaki-registry.git
 
 == Installation
 
